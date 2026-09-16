@@ -1,0 +1,2 @@
+Fehler§ >> datei_3.txt
+echo Fehler§
